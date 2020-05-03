@@ -54,7 +54,7 @@ if($text == "/start"){
     bot('sendMessage',[
        'chat_id'=>$chat_id,
        'parse_mode'=>'markdown',
-        'text'=>"Salom",
+        'text'=>"Nima? ",
 ]);
 }
 
